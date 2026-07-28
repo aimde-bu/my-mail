@@ -146,7 +146,6 @@
   </div>
 </template>
 
-<script src="https://pl30569737.effectivecpmnetwork.com/9a/72/27/9a72274874299ba3ef3352aacd7f1e04.js"></script>
 <script setup>
 import router from "@/router";
 import {computed, nextTick, reactive, ref} from "vue";
